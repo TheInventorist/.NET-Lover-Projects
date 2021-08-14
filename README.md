@@ -12,7 +12,7 @@ This repository holds every project i've used in my epic quest for mastering C#,
 
 # 3Dversity
 - This software, more like an MVP, was developed for an assingment of my univeristy (Universidad Andres Bello, Software Engineering 1), feel free to use it with proper credits. the software uses Leap Motion for controlling hands in a virtual environment, this with the objective of rotating and looking different faces of a geometric figure or a crystal (meant for students of geology).
-![alt text](.resources/3dversity.png?raw=true)
+![Screenshot](.resources/3dversity.png)
 
 
 Aggrupation of projects using .Net; C#, ASP.NET, WPF, Xamarin &amp; Unity.
