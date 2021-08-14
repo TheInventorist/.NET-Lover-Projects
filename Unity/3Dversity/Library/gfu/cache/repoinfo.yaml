@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-10-17T06:30:50.610-03:00
-  initializedAtString: 2019-10-17T03:07:19.235-03:00
+  lastUpdatedAtString: 2021-08-13T20:05:20.908-04:00
+  initializedAtString: 2021-08-13T20:05:20.908-04:00
   currentGitRemote:
     name: origin
-    url: https://github.com/TheInventorist/3Dversity.git
+    url: https://github.com/TheInventorist/.NET-Lover-Projects.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/TheInventorist/3Dversity.git
+      url: https://github.com/TheInventorist/.NET-Lover-Projects.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/TheInventorist/3Dversity.git
+    url: https://github.com/TheInventorist/.NET-Lover-Projects.git
   currentHead: 
