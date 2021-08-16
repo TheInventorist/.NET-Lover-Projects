@@ -15,14 +15,15 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 43.2
-    width: 1536
-    height: 780.8
+    y: 43
+    width: 1920
+    height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -38,12 +39,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 628
+    x: 766
     y: 0
-    width: 604
-    height: 454
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+    width: 738
+    height: 516
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -69,12 +70,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1536
-    height: 731
-  m_MinSize: {x: 887, y: 494}
-  m_MaxSize: {x: 16012, y: 14044}
+    width: 1920
+    height: 947
+  m_MinSize: {x: 881, y: 492}
+  m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 80
+  controlID: 102
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,12 +91,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1232
+    x: 1504
     y: 0
-    width: 304
-    height: 731
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+    width: 416
+    height: 947
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -119,10 +120,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 204
-    height: 454
-  m_MinSize: {x: 202, y: 222}
-  m_MaxSize: {x: 4002, y: 4022}
+    width: 302
+    height: 516
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -144,11 +145,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 454
-    width: 1232
-    height: 277
-  m_MinSize: {x: 232, y: 272}
-  m_MaxSize: {x: 10002, y: 10022}
+    y: 516
+    width: 1504
+    height: 431
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -175,9 +176,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1536
-    height: 781
-  m_MinSize: {x: 950, y: 300}
+    width: 1920
+    height: 997
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
 MonoBehaviour:
@@ -196,7 +197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1536
+    width: 1920
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -217,8 +218,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 761
-    width: 1536
+    y: 977
+    width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -241,12 +242,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1232
-    height: 731
-  m_MinSize: {x: 610, y: 494}
-  m_MaxSize: {x: 12010, y: 14044}
+    width: 1504
+    height: 947
+  m_MinSize: {x: 605, y: 492}
+  m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 81
+  controlID: 80
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,12 +268,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1232
-    height: 454
-  m_MinSize: {x: 610, y: 222}
-  m_MaxSize: {x: 12010, y: 4022}
+    width: 1504
+    height: 516
+  m_MinSize: {x: 605, y: 221}
+  m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 82
+  controlID: 81
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -288,12 +289,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 204
+    x: 302
     y: 0
-    width: 424
-    height: 454
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+    width: 464
+    height: 516
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -326,6 +327,19 @@ MonoBehaviour:
     width: 366
     height: 568
   m_ViewDataDictionary: {fileID: 0}
+  m_Spl:
+    ID: 0
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes: 0000000000000000
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes: 2000000020000000
+    maxSizes: 0000000000000000
+    lastTotalSize: 0
+    splitSize: 6
+    xOffset: 0
   m_TestTypeToolbarIndex: 0
   m_PlayModeTestListGUI:
     m_Window: {fileID: 13}
@@ -9118,8 +9132,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'AllTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.AllTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.AllTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -9282,8 +9296,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'AnyTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.AnyTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.AnyTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -9649,8 +9663,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ConcatTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ConcatTest(0
         : [Int32: ],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'ConcatTest(0 : [Int32: ],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9,
-        1, 900, -2147483648, 2147483647])'
+      name: 'ConcatTest(0 : [Int32: ],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5,
+        9, 1, 900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(0 : [Int32: ],15 : [Int32:
         1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
@@ -10138,8 +10152,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ConcatTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ConcatTest(20
         : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'ConcatTest(20 : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5,
-        9, 1, 900, -2147483648, 2147483647])'
+      name: 'ConcatTest(20 : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4,
+        5, 9, 1, 900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(20 : [Int32: 1],160 : [Int32:
         1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
@@ -10450,10 +10464,10 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ConcatTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ConcatTest(30
         : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'ConcatTest(30 : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4,
-        5, 9, 1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(30 : [Int32: 1, 2],160 : [Int32:
-        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'ConcatTest(30 : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
+        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(30 : [Int32: 1, 2],160 :
+        [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10473,8 +10487,8 @@ MonoBehaviour:
         : [Int32: ])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],0 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0 : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10494,8 +10508,8 @@ MonoBehaviour:
         : [Int32: ])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],10 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],10 : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10515,8 +10529,8 @@ MonoBehaviour:
         : [Int32: 1])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],1 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1 : [Int32: 1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1 : [Int32: 1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10536,8 +10550,8 @@ MonoBehaviour:
         : [Int32: 1])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],20 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],20 : [Int32: 1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],20 : [Int32: 1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10557,8 +10571,8 @@ MonoBehaviour:
         : [Int32: 1, 2])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],2 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2 : [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2 : [Int32: 1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10578,8 +10592,8 @@ MonoBehaviour:
         : [Int32: 1, 2])]'
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10600,9 +10614,9 @@ MonoBehaviour:
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10623,9 +10637,9 @@ MonoBehaviour:
       name: 'ConcatTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],160 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],160 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10773,8 +10787,8 @@ MonoBehaviour:
         2147483647],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ConcatTest(160 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -10958,10 +10972,10 @@ MonoBehaviour:
     - id: 1784
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ContainsTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ContainsTest(160
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'ContainsTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ContainsTest(160 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'ContainsTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ContainsTest(160 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11104,8 +11118,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'CountTests(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.CountTests(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.CountTests(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11286,10 +11300,10 @@ MonoBehaviour:
     - id: 1802
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/DistinctTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.DistinctTest(160
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'DistinctTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.DistinctTest(160 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'DistinctTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.DistinctTest(160 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11646,10 +11660,10 @@ MonoBehaviour:
     - id: 1822
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ElementAtTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ElementAtTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)]'
-      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647],0)'
-      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)'
+      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647],0)'
+      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11666,10 +11680,10 @@ MonoBehaviour:
     - id: 1823
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ElementAtTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ElementAtTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)]'
-      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647],3)'
-      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)'
+      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647],3)'
+      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11686,10 +11700,10 @@ MonoBehaviour:
     - id: 1824
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ElementAtTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ElementAtTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)]'
-      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647],100)'
-      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)'
+      name: 'ElementAtTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647],100)'
+      fullName: 'Leap.Unity.Tests.QueryTests.ElementAtTest(15 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11890,7 +11904,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/FirstOrDefaultTests/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.FirstOrDefaultTests(30
         : [Int32: 1, 2])]'
       name: 'FirstOrDefaultTests(30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.FirstOrDefaultTests(30 : [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.FirstOrDefaultTests(30 : [Int32: 1,
+        2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -11909,8 +11924,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'FirstOrDefaultTests(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1,
         900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.FirstOrDefaultTests(15 : [Int32: 1, 2,
-        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.FirstOrDefaultTests(15 : [Int32: 1,
+        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -12073,8 +12088,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'FirstTests(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.FirstTests(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.FirstTests(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13021,8 +13036,8 @@ MonoBehaviour:
     - id: 1895
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ForeachTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ForeachTest(2
         : [Int32: 1, 2],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
-      name: 'ForeachTest(2 : [Int32: 1, 2],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300,
-        6, 900, 2147483647])'
+      name: 'ForeachTest(2 : [Int32: 1, 2],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9,
+        300, 6, 900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(2 : [Int32: 1, 2],12 : [Int32:
         6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
@@ -13043,8 +13058,8 @@ MonoBehaviour:
         : [Int32: 1, 2],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ForeachTest(2 : [Int32: 1, 2],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9,
         300, 6, 900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(2 : [Int32: 1, 2],130 : [Int32:
-        6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(2 : [Int32: 1, 2],130 :
+        [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13081,8 +13096,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ForeachTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ForeachTest(30
         : [Int32: 1, 2],10 : [Int32: ])]'
       name: 'ForeachTest(30 : [Int32: 1, 2],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],10 : [Int32:
-        ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],10 :
+        [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13119,8 +13134,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ForeachTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ForeachTest(30
         : [Int32: 1, 2],20 : [Int32: 6])]'
       name: 'ForeachTest(30 : [Int32: 1, 2],20 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],20 : [Int32:
-        6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],20 :
+        [Int32: 6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13157,8 +13172,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ForeachTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ForeachTest(30
         : [Int32: 1, 2],30 : [Int32: 6, 7])]'
       name: 'ForeachTest(30 : [Int32: 1, 2],30 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],30 : [Int32:
-        6, 7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],30 :
+        [Int32: 6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13177,8 +13192,8 @@ MonoBehaviour:
         : [Int32: 1, 2],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ForeachTest(30 : [Int32: 1, 2],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9,
         300, 6, 900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],12 : [Int32:
-        6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(30 : [Int32: 1, 2],12 :
+        [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13345,8 +13360,8 @@ MonoBehaviour:
       name: 'ForeachTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8,
-        9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7,
+        8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13515,8 +13530,8 @@ MonoBehaviour:
       name: 'ForeachTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ForeachTest(160 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8,
-        9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7,
+        8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13699,10 +13714,10 @@ MonoBehaviour:
     - id: 1929
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/IndexOfTests/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.IndexOfTests(160
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'IndexOfTests(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.IndexOfTests(160 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'IndexOfTests(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.IndexOfTests(160 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -13865,8 +13880,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'LastTests(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.LastTests(160 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.LastTests(160 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -14009,8 +14024,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'MaxTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.MaxTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.MaxTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -14173,8 +14188,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'MinTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.MinTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.MinTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -14501,8 +14516,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'MultiForeachTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
         -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.MultiForeachTest(15 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.MultiForeachTest(15 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -14682,8 +14697,8 @@ MonoBehaviour:
     - id: 1992
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/OrderByDescendingTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.OrderByDescendingTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'OrderByDescendingTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1,
-        900, -2147483648, 2147483647])'
+      name: 'OrderByDescendingTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9,
+        1, 900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.OrderByDescendingTest(15 : [Int32: 1,
         2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
@@ -14704,8 +14719,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'OrderByDescendingTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9,
         1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.OrderByDescendingTest(160 : [Int32: 1,
-        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.OrderByDescendingTest(160 : [Int32:
+        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -15985,8 +16000,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)]'
       name: 'Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],0)'
-      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)'
+      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16005,8 +16020,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1)]'
       name: 'Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],1)'
-      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1)'
+      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16025,8 +16040,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2)]'
       name: 'Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],2)'
-      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2)'
+      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16045,8 +16060,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)]'
       name: 'Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],3)'
-      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)'
+      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],3)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16065,8 +16080,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)]'
       name: 'Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],100)'
-      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)'
+      fullName: 'Leap.Unity.Tests.QueryTests.Repeat(160 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],100)'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16572,10 +16587,10 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(10
         : [Int32: ],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'SelectManyTest(10 : [Int32: ],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4,
-        5, 9, 1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(10 : [Int32: ],160 : [Int32:
-        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SelectManyTest(10 : [Int32: ],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
+        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(10 : [Int32: ],160 :
+        [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16728,10 +16743,10 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(1
         : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'SelectManyTest(1 : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4,
-        5, 9, 1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(1 : [Int32: 1],160 : [Int32:
-        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SelectManyTest(1 : [Int32: 1],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
+        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(1 : [Int32: 1],160 :
+        [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16768,8 +16783,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(20
         : [Int32: 1],10 : [Int32: ])]'
       name: 'SelectManyTest(20 : [Int32: 1],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],10 : [Int32:
-        ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],10 :
+        [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16806,8 +16821,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(20
         : [Int32: 1],20 : [Int32: 1])]'
       name: 'SelectManyTest(20 : [Int32: 1],20 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],20 : [Int32:
-        1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],20 :
+        [Int32: 1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16844,8 +16859,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(20
         : [Int32: 1],30 : [Int32: 1, 2])]'
       name: 'SelectManyTest(20 : [Int32: 1],30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],30 : [Int32:
-        1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],30 :
+        [Int32: 1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16863,10 +16878,10 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(20
         : [Int32: 1],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'SelectManyTest(20 : [Int32: 1],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4,
-        5, 9, 1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],15 : [Int32:
-        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SelectManyTest(20 : [Int32: 1],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
+        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(20 : [Int32: 1],15 :
+        [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16924,8 +16939,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(2
         : [Int32: 1, 2],10 : [Int32: ])]'
       name: 'SelectManyTest(2 : [Int32: 1, 2],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],10 :
-        [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],10
+        : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -16962,8 +16977,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(2
         : [Int32: 1, 2],20 : [Int32: 1])]'
       name: 'SelectManyTest(2 : [Int32: 1, 2],20 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],20 :
-        [Int32: 1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],20
+        : [Int32: 1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17000,8 +17015,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(2
         : [Int32: 1, 2],30 : [Int32: 1, 2])]'
       name: 'SelectManyTest(2 : [Int32: 1, 2],30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],30 :
-        [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],30
+        : [Int32: 1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17021,8 +17036,8 @@ MonoBehaviour:
         2147483647])]'
       name: 'SelectManyTest(2 : [Int32: 1, 2],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
         4, 5, 9, 1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],15 :
-        [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],15
+        : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17040,8 +17055,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(2
         : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'SelectManyTest(2 : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
-        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SelectManyTest(2 : [Int32: 1, 2],160 : [Int32: 1, 2, 3, 4, 5, 1, 2,
+        3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(2 : [Int32: 1, 2],160
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
@@ -17061,8 +17076,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(30
         : [Int32: 1, 2],0 : [Int32: ])]'
       name: 'SelectManyTest(30 : [Int32: 1, 2],0 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],0 :
-        [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],0
+        : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17099,8 +17114,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(30
         : [Int32: 1, 2],1 : [Int32: 1])]'
       name: 'SelectManyTest(30 : [Int32: 1, 2],1 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],1 :
-        [Int32: 1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],1
+        : [Int32: 1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17137,8 +17152,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(30
         : [Int32: 1, 2],2 : [Int32: 1, 2])]'
       name: 'SelectManyTest(30 : [Int32: 1, 2],2 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],2 :
-        [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],2
+        : [Int32: 1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17175,8 +17190,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SelectManyTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SelectManyTest(30
         : [Int32: 1, 2],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])]'
-      name: 'SelectManyTest(30 : [Int32: 1, 2],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3,
-        4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SelectManyTest(30 : [Int32: 1, 2],15 : [Int32: 1, 2, 3, 4, 5, 1, 2,
+        3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(30 : [Int32: 1, 2],15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
@@ -17325,7 +17340,8 @@ MonoBehaviour:
       name: 'SelectManyTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
         -2147483648, 2147483647],30 : [Int32: 1, 2])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(15 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1, 2])'
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1,
+        2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17347,8 +17363,8 @@ MonoBehaviour:
         -2147483648, 2147483647],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1,
         900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(15 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2,
-        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1,
+        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17497,7 +17513,8 @@ MonoBehaviour:
       name: 'SelectManyTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
         -2147483648, 2147483647],30 : [Int32: 1, 2])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(160 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1, 2])'
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 1,
+        2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17519,8 +17536,8 @@ MonoBehaviour:
         -2147483648, 2147483647],15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1,
         900, -2147483648, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.SelectManyTest(160 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1, 2,
-        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],15 : [Int32: 1,
+        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -17686,8 +17703,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'SelectTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SelectTest(15 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SelectTest(15 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -18029,10 +18046,10 @@ MonoBehaviour:
     - id: 2162
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SkipWhileTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SkipWhileTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'SkipWhileTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SkipWhileTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'SkipWhileTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SkipWhileTest(15 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -18176,7 +18193,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/SortDescendingTests/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.SortDescendingTests(30
         : [Int32: 1, 2])]'
       name: 'SortDescendingTests(30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SortDescendingTests(30 : [Int32: 1, 2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SortDescendingTests(30 : [Int32: 1,
+        2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -18195,8 +18213,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'SortDescendingTests(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1,
         900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.SortDescendingTests(15 : [Int32: 1, 2,
-        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.SortDescendingTests(15 : [Int32: 1,
+        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -18849,10 +18867,10 @@ MonoBehaviour:
     - id: 2207
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/TakeWhileTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.TakeWhileTest(15
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
-      name: 'TakeWhileTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
-        2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.TakeWhileTest(15 : [Int32: 1, 2, 3, 4,
-        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      name: 'TakeWhileTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
+        -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.TakeWhileTest(15 : [Int32: 1, 2, 3,
+        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19035,8 +19053,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'WhereTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WhereTest(160 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WhereTest(160 : [Int32: 1, 2, 3, 4,
+        5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19199,8 +19217,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'WithIndicesTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
         -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithIndicesTest(160 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithIndicesTest(160 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19252,7 +19270,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/WithPreviousOffsetTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(10
         : [Int32: ])]'
       name: 'WithPreviousOffsetTest(10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(10 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(10 : [Int32:
+        ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19288,7 +19307,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/WithPreviousOffsetTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(20
         : [Int32: 1])]'
       name: 'WithPreviousOffsetTest(20 : [Int32: 1])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(20 : [Int32: 1])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(20 : [Int32:
+        1])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19325,8 +19345,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/WithPreviousOffsetTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(30
         : [Int32: 1, 2])]'
       name: 'WithPreviousOffsetTest(30 : [Int32: 1, 2])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(30 : [Int32: 1,
-        2])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(30 : [Int32:
+        1, 2])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19345,8 +19365,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'WithPreviousOffsetTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9,
         1, 900, -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(15 : [Int32: 1,
-        2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousOffsetTest(15 : [Int32:
+        1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19509,8 +19529,8 @@ MonoBehaviour:
         : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])]'
       name: 'WithPreviousTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900,
         -2147483648, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousTest(15 : [Int32: 1, 2, 3,
-        4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.WithPreviousTest(15 : [Int32: 1, 2,
+        3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19673,8 +19693,8 @@ MonoBehaviour:
     - id: 2252
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(0
         : [Int32: ],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
-      name: 'ZipTest(0 : [Int32: ],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900,
-        2147483647])'
+      name: 'ZipTest(0 : [Int32: ],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6,
+        900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(0 : [Int32: ],12 : [Int32: 6,
         7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
@@ -19695,8 +19715,8 @@ MonoBehaviour:
         : [Int32: ],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ZipTest(0 : [Int32: ],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6,
         900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(0 : [Int32: ],130 : [Int32: 6,
-        7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(0 : [Int32: ],130 : [Int32:
+        6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19732,7 +19752,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(10
         : [Int32: ],10 : [Int32: ])]'
       name: 'ZipTest(10 : [Int32: ],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],10 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],10 : [Int32:
+        ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19768,7 +19789,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(10
         : [Int32: ],20 : [Int32: 6])]'
       name: 'ZipTest(10 : [Int32: ],20 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],20 : [Int32: 6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],20 : [Int32:
+        6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19805,8 +19827,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(10
         : [Int32: ],30 : [Int32: 6, 7])]'
       name: 'ZipTest(10 : [Int32: ],30 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],30 : [Int32: 6,
-        7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],30 : [Int32:
+        6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19825,8 +19847,8 @@ MonoBehaviour:
         : [Int32: ],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ZipTest(10 : [Int32: ],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6,
         900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],12 : [Int32: 6,
-        7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(10 : [Int32: ],12 : [Int32:
+        6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19882,7 +19904,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(1
         : [Int32: 1],10 : [Int32: ])]'
       name: 'ZipTest(1 : [Int32: 1],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],10 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],10 : [Int32:
+        ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19918,7 +19941,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(1
         : [Int32: 1],20 : [Int32: 6])]'
       name: 'ZipTest(1 : [Int32: 1],20 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],20 : [Int32: 6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],20 : [Int32:
+        6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19955,8 +19979,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(1
         : [Int32: 1],30 : [Int32: 6, 7])]'
       name: 'ZipTest(1 : [Int32: 1],30 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],30 : [Int32: 6,
-        7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],30 : [Int32:
+        6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -19975,8 +19999,8 @@ MonoBehaviour:
         : [Int32: 1],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ZipTest(1 : [Int32: 1],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6,
         900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],12 : [Int32: 6,
-        7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(1 : [Int32: 1],12 : [Int32:
+        6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20014,7 +20038,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(20
         : [Int32: 1],0 : [Int32: ])]'
       name: 'ZipTest(20 : [Int32: 1],0 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],0 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],0 : [Int32:
+        ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20051,7 +20076,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(20
         : [Int32: 1],1 : [Int32: 6])]'
       name: 'ZipTest(20 : [Int32: 1],1 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],1 : [Int32: 6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],1 : [Int32:
+        6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20088,8 +20114,8 @@ MonoBehaviour:
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(20
         : [Int32: 1],2 : [Int32: 6, 7])]'
       name: 'ZipTest(20 : [Int32: 1],2 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],2 : [Int32: 6,
-        7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],2 : [Int32:
+        6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20145,8 +20171,8 @@ MonoBehaviour:
     - id: 2277
       uniqueId: 'Assembly-CSharp-Editor.dll/Leap/Unity/Tests/QueryTests/ZipTest/[Assembly-CSharp-Editor][Leap.Unity.Tests.QueryTests.ZipTest(20
         : [Int32: 1],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
-      name: 'ZipTest(20 : [Int32: 1],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6,
-        900, 2147483647])'
+      name: 'ZipTest(20 : [Int32: 1],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300,
+        6, 900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(20 : [Int32: 1],130 : [Int32:
         6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
@@ -20476,8 +20502,8 @@ MonoBehaviour:
         : [Int32: ])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],0 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],0 : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20497,8 +20523,8 @@ MonoBehaviour:
         : [Int32: ])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],10 : [Int32: ])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],10 : [Int32: ])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],10 : [Int32: ])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20518,8 +20544,8 @@ MonoBehaviour:
         : [Int32: 6])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],1 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1 : [Int32: 6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],1 : [Int32: 6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20539,8 +20565,8 @@ MonoBehaviour:
         : [Int32: 6])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],20 : [Int32: 6])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],20 : [Int32: 6])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],20 : [Int32: 6])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20560,8 +20586,8 @@ MonoBehaviour:
         : [Int32: 6, 7])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],2 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2 : [Int32: 6, 7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],2 : [Int32: 6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20581,8 +20607,8 @@ MonoBehaviour:
         : [Int32: 6, 7])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],30 : [Int32: 6, 7])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 6, 7])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],30 : [Int32: 6, 7])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20602,9 +20628,9 @@ MonoBehaviour:
         : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8, 9, 10,
-        1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8,
+        9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20624,9 +20650,9 @@ MonoBehaviour:
         : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])]'
       name: 'ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],130 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
-      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5, 1,
-        2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],130 : [Int32: 6, 7, 8, 9,
-        10, 1, 1, 9, 300, 6, 900, 2147483647])'
+      fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(15 : [Int32: 1, 2, 3, 4, 5,
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],130 : [Int32: 6, 7, 8,
+        9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -20773,8 +20799,8 @@ MonoBehaviour:
       name: 'ZipTest(160 : [Int32: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 9, 1, 900, -2147483648,
         2147483647],12 : [Int32: 6, 7, 8, 9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       fullName: 'Leap.Unity.Tests.QueryTests.ZipTest(160 : [Int32: 1, 2, 3, 4, 5,
-        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8, 9,
-        10, 1, 1, 9, 300, 6, 900, 2147483647])'
+        1, 2, 3, 4, 5, 9, 1, 900, -2147483648, 2147483647],12 : [Int32: 6, 7, 8,
+        9, 10, 1, 1, 9, 300, 6, 900, 2147483647])'
       resultStatus: 0
       duration: 0
       messages: 
@@ -24674,7 +24700,8 @@ MonoBehaviour:
       uniqueId: Assembly-CSharp-Editor.dll/Leap/Unity/Tests/UtilsTests/TestNiceNames/[Assembly-CSharp-Editor][Leap.Unity.Tests.UtilsTests.TestNiceNames("_privateVar","Private
         Var")]
       name: TestNiceNames("_privateVar","Private Var")
-      fullName: Leap.Unity.Tests.UtilsTests.TestNiceNames("_privateVar","Private Var")
+      fullName: Leap.Unity.Tests.UtilsTests.TestNiceNames("_privateVar","Private
+        Var")
       resultStatus: 0
       duration: 0
       messages: 
@@ -24748,8 +24775,8 @@ MonoBehaviour:
       uniqueId: Assembly-CSharp-Editor.dll/Leap/Unity/Tests/UtilsTests/TestNiceNames/[Assembly-CSharp-Editor][Leap.Unity.Tests.UtilsTests.TestNiceNames("_is2_equalTo_5","Is
         2 Equal To 5")]
       name: TestNiceNames("_is2_equalTo_5","Is 2 Equal To 5")
-      fullName: Leap.Unity.Tests.UtilsTests.TestNiceNames("_is2_equalTo_5","Is 2 Equal
-        To 5")
+      fullName: Leap.Unity.Tests.UtilsTests.TestNiceNames("_is2_equalTo_5","Is 2
+        Equal To 5")
       resultStatus: 0
       duration: 0
       messages: 
@@ -24993,9 +25020,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 527.2
-    width: 1232
-    height: 258
+    y: 589
+    width: 1503
+    height: 410
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -25016,14 +25043,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Repositorios\.NET-Lover-Projects\Unity\3Dversity
+  m_LastProjectPath: D:\4Dworks\repositorios\.NET-Lover-Projects\Unity\3Dversity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: d63c0000
-    m_LastClickedID: 15574
-    m_ExpandedIDs: 00000000d63c0000403d00001a3f0000fa400000404400001c45000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f26a0000
+    m_LastClickedID: 27378
+    m_ExpandedIDs: 00000000f46a0000f66a0000f86a0000fa6a0000fc6a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -25051,7 +25078,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d63c0000403d00001a3f0000fa400000404400001c450000
+    m_ExpandedIDs: 00000000f26a0000f46a0000f66a0000f86a0000fa6a0000fc6a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -25128,10 +25155,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1232
-    y: 73.6
-    width: 302
-    height: 712
+    x: 1504
+    y: 73
+    width: 415
+    height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -25143,6 +25170,8 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -25165,16 +25194,16 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 73.6
-    width: 204
-    height: 435
+    y: 73
+    width: 301
+    height: 495
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c6e9ffff
+      m_ExpandedIDs: 80a6ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -25219,10 +25248,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 204
-    y: 73.6
-    width: 422
-    height: 435
+    x: 302
+    y: 73
+    width: 462
+    height: 495
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 1a9aad2b941027b4d9ad837015cfde38
@@ -25244,6 +25273,8 @@ MonoBehaviour:
     section: Shading Mode
   m_ValidateTrueMetals: 0
   m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
@@ -25251,23 +25282,38 @@ MonoBehaviour:
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
-  grid:
+  m_Grid:
     xGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
     zGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
   m_Rotation:
     m_Target: {x: -0.32486054, y: 0.11228123, z: -0.038868442, w: -0.93828535}
     speed: 2
-    m_Value: {x: -0.32203916, y: 0.11239557, z: -0.038530793, w: -0.9392409}
+    m_Value: {x: -0.32486057, y: 0.11228123, z: -0.038868446, w: -0.9382854}
   m_Size:
     m_Target: 6.729988
     speed: 2
@@ -25284,12 +25330,11 @@ MonoBehaviour:
     m_EasingEnabled: 1
     m_EasingDuration: 0.4
     m_AccelerationEnabled: 1
-    m_FieldOfView: 90
+    m_FieldOfViewHorizontalOrVertical: 60
     m_NearClip: 0.03
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
@@ -25318,26 +25363,38 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 628
-    y: 73.6
-    width: 602
-    height: 435
+    x: 766
+    y: 73
+    width: 736
+    height: 495
   m_ViewDataDictionary: {fileID: 0}
-  m_VSyncEnabled: 0
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_SerializedCustomFieldsNames: []
+  m_SerializedCustomFieldsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 1024, y: 768}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
   m_MaximizeOnPlay: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 06000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -409.6
-    m_HBaseRangeMax: 409.6
-    m_VBaseRangeMin: -307.2
-    m_VBaseRangeMax: 307.2
+    m_HBaseRangeMin: -512
+    m_HBaseRangeMax: 512
+    m_VBaseRangeMin: -384
+    m_VBaseRangeMax: 384
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -25354,30 +25411,29 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 17
-      width: 602
-      height: 418
-    m_Scale: {x: 0.6803385, y: 0.6803385}
-    m_Translation: {x: 301, y: 209}
+      y: 21
+      width: 736
+      height: 474
+    m_Scale: {x: 0.6171875, y: 0.6171875}
+    m_Translation: {x: 368, y: 237}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -442.42682
-      y: -307.2
-      width: 884.85364
-      height: 614.4
+      x: -596.2532
+      y: -384
+      width: 1192.5063
+      height: 768
     m_MinimalGUI: 1
-  m_defaultScale: 0.6803385
-  m_TargetTexture: {fileID: 0}
-  m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 752.5, y: 543.75}
+  m_defaultScale: 0.6171875
+  m_LastWindowPixelSize: {x: 736, y: 495}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
   m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
 --- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
