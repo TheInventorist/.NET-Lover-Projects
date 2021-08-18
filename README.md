@@ -14,6 +14,10 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - This software, more like an MVP, was developed for an assingment of my univeristy (Universidad Andres Bello, Software Engineering 1), feel free to use it with proper credits. the software uses Leap Motion for controlling hands in a virtual environment, this with the objective of rotating and looking different faces of a geometric figure or a crystal (meant for students of geology).
     - ![3Dversity](/resources/3dversity.png)
 
+### Unity Foundations
+- Unity Foundations is a good starting place for new game devs, i tried it to follow the proper unity learning way as unity team teach. I learned the reforced my knowledge of the basics of unity.
+    - ![UnityFoundations](/resources/UnityFoundations.png)
+
 ### Hero Born
 - Hero born is a shooting minigame where the player must collect 4 object on the map without getting touch by the enemy A.I. The only weapon of the hero is shooting balls against its enemies. This book taught me how to create a project in unity using it's best practices, with events, delegates, OOP programming, etc. Recomended for beginners and experimented users who wants to improve their foundations of this engine. 
     - ![Hero Born](/resources/HeroBorn.png)
