@@ -30,6 +30,10 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - Junior Programming is a great approach for starters to get the main concepts of unity. I went the entire pathway learning new concepts and remembering others. I liked a lot the practical part because it was full of challanges and bonus, this game is just a car moving with [WASD] and trying to avoid obstacles on the road.
     - ![RumRum](/resources/JP_01.png)
 
+### MoosePizza
+- MoosePizza is a simple 2D game in a 3D environment, the player must avoid or kill with its dangerous flying pizzas to the animals of the forest, but beweare, they are randomized position spawning, speed and type.
+    - ![MoosePizza](/resources/MoosePizza.png)
+
 ---
 
 ## WPF
