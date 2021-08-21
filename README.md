@@ -34,6 +34,10 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - MoosePizza is a simple 2D game in a 3D environment, the player must avoid or kill with its dangerous flying pizzas to the animals of the forest, but beweare, they are randomized position spawning, speed and type.
     - ![MoosePizza](/resources/MoosePizza.png)
 
+### Jumply
+- Jumply is also a 2D game in a 3D scneario, the player must jump fences comming towards him... that what it is, some sounds, jumps, animations and well... a cool endless level.
+    - ![Jumply](/resources/jumply.png)
+
 ---
 
 ## WPF
