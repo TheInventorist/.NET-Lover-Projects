@@ -42,6 +42,9 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - Humble Sphere is a fully physics game where the player must control a rolling ball in a cliff with a centralized focal point to move the camera... be ware with the enemies, they will try to drop you, be faster taking the powerups to send them flying.
     - ![HumbleSphere](/resources/HumbleSphere.png)
 
+### ObviouslyNotFruitNinja (clone)
+- Wel... Basicly a fruit ninja clone with my favorite food and clicky instead of slashing... COOL!
+    - ![ObviouslyNotFruitNinja](/resources/ObviouslyNotFruitNinja.png)
 ---
 
 ## WPF
