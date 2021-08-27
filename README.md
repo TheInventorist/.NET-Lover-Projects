@@ -43,7 +43,7 @@ This repository holds every project i've used in my epic quest for mastering C#,
     - ![HumbleSphere](/resources/HumbleSphere.png)
 
 ### ObviouslyNotFruitNinja (clone)
-- Wel... Basicly a fruit ninja clone with my favorite food and clicky instead of slashing... COOL!
+- Wel... Basically a fruit ninja clone with my favorite food and clicky instead of slashing... COOL!
     - ![ObviouslyNotFruitNinja](/resources/ObviouslyNotFruitNinja.png)
 ---
 
