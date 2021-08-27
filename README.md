@@ -38,6 +38,10 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - Jumply is also a 2D game in a 3D scneario, the player must jump fences comming towards him... that what it is, some sounds, jumps, animations and well... a cool endless level.
     - ![Jumply](/resources/jumply.png)
 
+### HumbleSphere
+- Humble Sphere is a fully physics game where the player must control a rolling ball in a cliff with a centralized focal point to move the camera... be ware with the enemies, they will try to drop you, be faster taking the powerups to send them flying.
+    - ![HumbleSphere](/resources/HumbleSphere.png)
+
 ---
 
 ## WPF
