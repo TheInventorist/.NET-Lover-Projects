@@ -45,6 +45,10 @@ This repository holds every project i've used in my epic quest for mastering C#,
 ### ObviouslyNotFruitNinja (clone)
 - Wel... Basically a fruit ninja clone with my favorite food and clicky instead of slashing... COOL!
     - ![ObviouslyNotFruitNinja](/resources/ObviouslyNotFruitNinja.png)
+
+### Junior Programmer
+- Basic game with few interesting things like object pooling, conditional compiling, Singletons and Data persistance.
+    - ![JuniorProgrammer](/resources/JuniorProgrammer.png)
 ---
 
 ## WPF
