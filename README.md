@@ -57,6 +57,15 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - First project while learning WPF, this is a basic instragram interface, it has unlimited sliding, randomized content, like double click and click on button.
     - ![WPFInstagram](/resources/WPFInstagram.png)
 
+---
+
+## ASP.NET
+
+### ASP.NETCore101
+
+- basic WebSite using ASP.NET and razor, json as DB and MVC pattern. 
+    - ![ASPNET101](/resources/ASPNET101.png)
+
 
 # Credits
 
@@ -65,6 +74,7 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - The Windows Presentation Foundation WPF Guide for beginners [https://www.udemy.com/course/the-windows-presentation-foundation-wpf-course-for-beginners]
 - Unity Essentials [https://learn.unity.com/pathway/unity-essentials?language=en]
 - Junior Programmer [https://learn.unity.com/pathway/junior-programmer]
+- ASP.NET Core 101 [https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy&index=1]
 
 # Books:
 - Learning C# by devbeloping Games with Unity 2020, Harrison Ferrone.

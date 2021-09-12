@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].ZooAnimal
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [ZooId] INT NULL, 
+    [AnimalId] INT NULL, 
+    CONSTRAINT [ZooFK] FOREIGN KEY (ZooId) REFERENCES Zoo(Id),
+	CONSTRAINT [AnimalFK] FOREIGN KEY (AnimalId) REFERENCES Animal(Id)
+)
