@@ -66,15 +66,21 @@ This repository holds every project i've used in my epic quest for mastering C#,
 - basic WebSite using ASP.NET and razor, json as DB and MVC pattern. 
     - ![ASPNET101](/resources/ASPNET101.png)
 
+### ASP.NET In And Out
+
+- MVC .Net Core application to control items, expenses and expense types using good practices.
+    - ![ASPNET101](/resources/ASPNETInAndOut.png)
+
 
 # Credits
 
 # Courses:
-- ML-Agents: Hummingbirds [https://learn.unity.com/course/ml-agents-hummingbirds]
-- The Windows Presentation Foundation WPF Guide for beginners [https://www.udemy.com/course/the-windows-presentation-foundation-wpf-course-for-beginners]
-- Unity Essentials [https://learn.unity.com/pathway/unity-essentials?language=en]
-- Junior Programmer [https://learn.unity.com/pathway/junior-programmer]
-- ASP.NET Core 101 [https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy&index=1]
+- (ML-Agents: Hummingbirds)[https://learn.unity.com/course/ml-agents-hummingbirds]
+- (The Windows Presentation Foundation WPF Guide for beginners)[https://www.udemy.com/course/the-windows-presentation-foundation-wpf-course-for-beginners]
+- (Unity Essentials)[https://learn.unity.com/pathway/unity-essentials?language=en]
+- (Junior Programmer)[https://learn.unity.com/pathway/junior-programmer]
+- (ASP.NET Core 101)[https://www.youtube.com/watch?v=lE8NdaX97m0&list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy&index=1]
+- (ASP.NET Core 5.0 MVC The Beginners Guide To Becoming A Pro)[https://www.udemy.com/course/aspnet-core-5-mvc/]
 
 # Books:
 - Learning C# by devbeloping Games with Unity 2020, Harrison Ferrone.
